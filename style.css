@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: skyblue;
+    border-radius: 10px;
+    border: solid 4px;
+    border-color: skyblue;
+}
+h1{
+    color: black;
+    border: solid 3px;
+    text-align: center;
+}
+footer{
+    background-color: aquamarine;
+    border: 3px;
+    border-radius: 10px;
+}
+nav{ 
+    color: black;
+    text-decoration: underline;
+}
+.narkota{
+    background-color: cornflowerblue;
+    text-decoration: underline;
+}
+#discount{
+    color: rgb(68, 51, 129);
+}
+#delivery{
+    color: rgb(68, 51, 129)
+}
+#wholesale{
+    color: rgb(68, 51, 129)
+}
+#about_us{
+    color: rgb(68, 51, 129);
+}
+.pon{
+  border: solid 3px;
+  border-color: black;
+  border-radius: 10px;
+  padding: 3px;
+}
+
